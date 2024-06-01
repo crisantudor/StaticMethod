@@ -1,4 +1,4 @@
-public class Engine {
+class Engine {
     private String type;
 
     public Engine(String type) {
